@@ -1,0 +1,5 @@
+## PROJECT STRUCTURE
+pca-customer-analysis/
+│── pca_analysis.ipynb
+│── data.csv
+│── README.md
